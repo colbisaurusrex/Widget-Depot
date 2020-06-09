@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Sirius",
+      "description": "I'm baby chambray street art food truck keffiyeh DIY tofu. Kombucha swag bicycle rights seitan 8-bit. Semiotics plaid hexagon kale chips echo park. Sriracha heirloom kitsch pitchfork locavore, neutra disrupt swag. Selfies fashion axe next level pitchfork brooklyn skateboard, tilde snackwave truffaut gluten-free irony roof party cliche. Mumblecore drinking vinegar selfies green juice man bun DIY authentic, portland trust fund small batch. Palo santo chambray selvage hot chicken yr street art. Fixie slow-carb tumeric affogato, tbh mumblecore occupy retro kickstarter gentrify XOXO franzen synth. Lyft pabst mlkshk, letterpress ramps hoodie semiotics vexillologist. Mlkshk affogato chicharrones gluten-free, pug raclette prism. Palo santo flannel hoodie waistcoat wayfarers yuccie normcore pork belly kogi cold-pressed shabby chic retro coloring book. Microdosing shabby chic butcher, pour-over fashion axe viral synth occupy tofu meggings. Cold-pressed intelligentsia banjo, knausgaard keffiyeh gochujang seitan semiotics normcore. Vice kale chips knausgaard whatever hoodie man bun brunch gluten-free.",
+      "img": "./assets/pale-gallery.png",
+      "specifications": {
+        "dimensions": {
+          "height": 14,
+          "width": 3,
+          "depth": 6
+        },
+        "weight": 3,
+        "capacity": 10
+      },
+      "price": 30
+    },
+    {
+      "id": 2,
+      "name": "Vega",
+      "description": "Cred sustainable mlkshk wayfarers messenger bag. Swag cornhole mustache intelligentsia retro cloud bread gastropub cronut cliche sriracha lo-fi put a bird on it. Biodiesel paleo neutra affogato beard pok pok cray vexillologist hoodie prism tattooed letterpress jean shorts. Cronut normcore letterpress, truffaut intelligentsia next level meh hoodie. Subway tile ugh woke migas unicorn.",
+      "img": "./assets/pale-clock.png",
+      "specifications": {
+        "dimensions": {
+          "height": 899,
+          "width": 33,
+          "depth": 26
+        },
+        "weight": 20,
+        "capacity": 1000
+      },
+      "price": 84
+    },
+    {
+      "id": 3,
+      "name": "Polaris",
+      "description": "Coloring book brunch tacos, blue bottle +1 kickstarter lomo authentic selfies mixtape blog chia vice. Twee tattooed fam, keytar selvage paleo asymmetrical selfies distillery ennui salvia iceland migas brooklyn. Brooklyn distillery kogi everyday carry drinking vinegar cred health goth actually squid. Kickstarter forage mixtape kale chips tilde kinfolk typewriter hoodie lumbersexual fam. Hashtag pok pok vape drinking vinegar readymade, typewriter thundercats squid blue bottle sustainable selfies DIY. Humblebrag scenester mustache, meggings health goth neutra aesthetic farm-to-table messenger bag.",
+      "img": "./assets/pale-bicycle.png",
+      "specifications": {
+        "dimensions": {
+          "height": 14,
+          "width": 3,
+          "depth": 6
+        },
+        "weight": 40,
+        "capacity": 12
+      },
+      "price": 34
+    },
+    {
+      "id": 4,
+      "name": "Betelgeuse",
+      "description": " Paleo drinking vinegar pinterest, iceland cornhole la croix edison bulb schlitz pabst DIY fingerstache VHS photo booth",
+      "img": "./assets/pale-space.png",
+      "specifications": {
+        "dimensions": {
+          "height": 14,
+          "width": 3,
+          "depth": 6
+        },
+        "weight": 31,
+        "capacity": 10
+      },
+      "price": 83
+    }
+  ]
+}

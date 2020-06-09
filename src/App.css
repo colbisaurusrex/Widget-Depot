@@ -1,0 +1,7 @@
+.input-field .prefix.right {
+  right: 0;
+}
+
+.input-field .prefix ~ input {
+  margin-left: 0px;
+}
