@@ -1,3 +1,5 @@
+#### This React 16 client. I used it to learn more about react hooks and accessibility. 
+
 ![Widget Depot Screenshot](./widget-depot.png)
 
 ### `npm start`
